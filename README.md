@@ -21,9 +21,14 @@ This project is an Expense Tracker web application built with React, Vue, Expres
 •	Database:
  o	MongoDB
 
+
+https://github.com/Tanmayyy209/Expense_Tracker/assets/114731714/96ec3c42-8814-434c-8f07-14855ad0761b
+
+
 •	Email Service:
  o	Nodemailer 
 
  # Implementation Video
+ 
 
 
