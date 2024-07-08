@@ -11,8 +11,7 @@ This project is an Expense Tracker web application built with React, Vue, Expres
 # Tech Stack
 
 •	Frontend:
-  o	React
-  o	Vue.js (optional - either use React or Vue.js for the frontend)
+  o	Vue.js 
  
 •	Backend:
  o	Node.js
