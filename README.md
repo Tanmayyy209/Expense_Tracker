@@ -5,8 +5,6 @@ This project is an Expense Tracker web application built with React, Vue, Expres
 
 •	Expense Threshold Notification: An email notification is sent to the user when their total expenses exceed 10,000 rupees.
 
-•	User Authentication: Secure user authentication to protect user data (if applicable).
-
 •	Responsive Design: A responsive and user-friendly interface for both desktop and mobile devices.
 # Tech Stack
 
