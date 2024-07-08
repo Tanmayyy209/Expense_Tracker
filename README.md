@@ -22,6 +22,8 @@ This project is an Expense Tracker web application built with React, Vue, Expres
  o	MongoDB
 
 •	Email Service:
- o	Nodemailer (or any other email sending service)
+ o	Nodemailer 
+
+ # Implementation Video
 
 
