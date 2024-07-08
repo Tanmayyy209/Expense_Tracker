@@ -9,17 +9,17 @@ This project is an Expense Tracker web application built with React, Vue, Expres
 
 •	Responsive Design: A responsive and user-friendly interface for both desktop and mobile devices.
 # Tech Stack
+
 •	Frontend:
-
   o	React
- o	Vue.js (optional - either use React or Vue.js for the frontend)
+  o	Vue.js (optional - either use React or Vue.js for the frontend)
+ 
 •	Backend:
-
  o	Node.js
  o	Express.js
+ 
 •	Database:
-
-o	MongoDB
+ o	MongoDB
 
 •	Email Service:
  o	Nodemailer (or any other email sending service)
